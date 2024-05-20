@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7a/W9wfHxB9ZFYjf21zyknfXX6csnPg2QAEDE/irCSSbmrW+InS5aT7RL2w/51Crd5rtep86Fp6kczbdKNrMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thato\\Desktop\\Practice\\PersonalFinanceManager\\PersonalFinanceManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thato\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Thato\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Thato\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Thato\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
